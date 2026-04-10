@@ -1,9 +1,9 @@
 # Hyperspectral Band Selection with Dynamic Graph Enhancement and Hierarchical Feature Fusion
 
-This repo provides a Python implementation of paper “Hyperspectral 
+This repo provides a python implementation of paper “Hyperspectral 
 Band Selection with Dynamic Graph Enhancement and Hierarchical 
 Feature Fusion,” IEEE Transactions on Geoscience and Remote Sensing
-(IEEE TGRS), DOI: xxxxx. The code will be made publicly available upon acceptance of the paper.
+(IEEE TGRS), DOI: xxxxx.
 
 This code is provided solely for academic and research purposes. 
 Redistribution of the code, in whole or in part, including sharing 
