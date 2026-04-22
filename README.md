@@ -72,11 +72,6 @@ the training loss curve saved as an image file.
 
 If you find this work useful, please cite:
 
-```bibtex
-@article{xxxxxx,
-  title={XXX},
-  author={xxxx},
-  journal={xxxx},
-  year={xx}
-}
+J. Zhang, J. Wang, D. Li, J. Zhang, X. Sun and X. Shang, "Hyperspectral Band Selection With Dynamic Graph Enhancement and Hierarchical Feature Fusion," in IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 1-16, 2026, Art no. 5508816, doi: 10.1109/TGRS.2026.3676136.
+
 
